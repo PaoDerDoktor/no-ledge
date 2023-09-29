@@ -4,118 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "cac65a935f844859",
+        "id": "6df18c1b387ebbbf",
         "type": "tabs",
         "children": [
           {
-            "id": "42ce4325b5c396c6",
+            "id": "cbbf20fb10fb9733",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a100127c384fe5b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gamehistory.md",
+                "file": "Projet Hierogreen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7cf0fc1567168eba",
+            "id": "5305debf9f638bcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automaîtrise/Automaîtrise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3444490b15e0ea00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factorio - Slotec.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "264781c5b50a4877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FunCode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b546595638237a94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gamehistory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "529903d374f8f304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automaîtrise/Biopression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a565b27c77106587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automaîtrise/Exemples.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a83633cfe493daf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gamehistory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da8b6f31123c6f66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automaîtrise/Automaîtres.md",
+                "file": "RPG-KF1/Histoire.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "skrih",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gamehistory.md",
+                "file": "Projet Hierogreen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamehistory.md",
+                "file": "Projet Hierogreen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,15 +146,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gamehistory.md"
+                "file": "Projet Hierogreen.md"
+              }
+            }
+          },
+          {
+            "id": "88d2d71fac750bed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "10b19d9a27ef979c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Projet Hierogreen.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,20 +188,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42ce4325b5c396c6",
+  "active": "a100127c384fe5b2",
   "lastOpenFiles": [
+    "Projet Hierogreen.md",
+    "Untitled",
+    "EMG/Carnet d'Adresses/Nicolas Queru (contact).md",
+    "RPG-KF1/Histoire.md",
+    "RPG-KF1/Pseudoclasses.md",
+    "EMG/Carnet d'Adresses/Léto (contact).md",
+    "CompSci/Pseudoclasses.md",
+    "Automaîtrise/Biocrise.md",
+    "25-09-2023.md",
     "Untitled.canvas",
-    "Texturing",
     "Automaîtrise/Automaîtrise.md",
     "Automaîtrise/Automaîtres.md",
-    "Automaîtrise/Exemples.md",
-    "Automaîtrise/Biocrise.md",
+    "Attachments/Pasted image 20230904175311.png",
+    "RPG-KF1/Tasks Kanban.md",
+    "RPG-KF1/RPG-KF1.md",
+    "Untitled 1.md",
+    "EMG/Carnet d'Adresses/Carnet d'Adresses.md",
+    "EMG/Décisions d'EMG.md",
+    "EMG/EMG.md",
+    "EMG/Espace de stockage.md",
+    "Learning/Maths/Untitled.md",
     "Automaîtrise/Biopression.md",
-    "Test.md",
-    "Factorio - Slotec.md",
-    "FunCode.md",
     "Gamehistory.md",
-    "Automaîtrise",
-    "Pasted image 20230904175311.png"
+    "FunCode.md",
+    "Factorio - Slotec.md",
+    "Learning/Maths",
+    "Learning",
+    "Untitled.md",
+    "CompSci",
+    "Setting Godot up.md",
+    "EMG/Rangs/Bénévole.md",
+    "Rangs.md",
+    "RPG-KF1/Tasks",
+    "RPG-KF1",
+    "Learning",
+    "EMG/Carnet d'Adresses",
+    "EMG/Statuts/build/Statuts.toc",
+    "EMG/Statuts/build/Statuts.synctex.gz",
+    "EMG/Poles/attachments/Diagramme Poles.png"
   ]
 }

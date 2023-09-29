@@ -1,0 +1,3 @@
+[submodule "EMG"]
+	path = EMG
+	url = https://github.com/emilie-martin-dev/emg-obsidian

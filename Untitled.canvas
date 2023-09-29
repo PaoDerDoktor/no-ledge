@@ -1,1 +1,7 @@
-{}
+{
+	"nodes":[
+		{"id":"2c479003933e7c79","x":-120,"y":-100,"width":400,"height":400,"type":"file","file":"EMG/Décisions d'EMG.md"},
+		{"id":"088690078b42bbfc","x":-500,"y":-240,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
