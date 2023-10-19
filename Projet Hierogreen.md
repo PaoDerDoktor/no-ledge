@@ -15,6 +15,7 @@ Aujourd'hui les services `git`, c'est globalement [[Github]] et [[Gitlab (site)]
 La solution serait donc de créer et [[self-host]] un [[Gitlab (serveur)]] puisque techniquement, le serveur est un [[FOSS]].
 
 On pourrait techniquement utiliser [[Gitea]] à la place pour un projet maintenu par une entité à but non lucratif, mais le serveur est encore un peu en retard sur certain points (notamment la possibilité de build des releases, qui serait nécessaire pour OH)
+
 ## PC Game Streaming
 
 Des fois, c'est sympa de se poser tranquillement dans le lit pour jouer. Mais le petit souci c'est qu'un petit raspberry pi 4 comme c'est le standard actuellement n'est pas capable de faire tourner grand chose au-delà de la PSP. Et des fois c'est sympa de jouer à des jeux un peu plus modernes.

@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbbf20fb10fb9733",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a100127c384fe5b2",
+            "id": "a74cb3a5fdf70341",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projet Hierogreen.md",
+                "file": "Learning/Maths/Exercices/Paul's Online Notes - Practice Problems - Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projet Hierogreen.md",
+                "file": "Learning/Maths/Exercices/Paul's Online Notes - Practice Problems - Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projet Hierogreen.md",
+                "file": "Learning/Maths/Exercices/Paul's Online Notes - Practice Problems - Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projet Hierogreen.md"
+                "file": "Learning/Maths/Exercices/Paul's Online Notes - Practice Problems - Functions.md"
               }
             }
           },
@@ -166,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Projet Hierogreen.md"
+                "file": "Learning/Maths/Exercices/Paul's Online Notes - Practice Problems - Functions.md"
               }
             }
           }
@@ -188,9 +179,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a100127c384fe5b2",
+  "active": "a74cb3a5fdf70341",
   "lastOpenFiles": [
+    "Learning/Maths/Quotient Différentiel.md",
+    "Learning/Maths/Exercices/Paul's Online Notes - Practice Problems - Functions.md",
+    "Learning/Maths/Exercices",
     "Projet Hierogreen.md",
+    "Test.md",
+    "Rangs.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "My Canvas.canvas",
+    "OpenHive/OpenHive.md",
+    "OpenHive",
     "Untitled",
     "EMG/Carnet d'Adresses/Nicolas Queru (contact).md",
     "RPG-KF1/Histoire.md",
@@ -199,35 +200,24 @@
     "CompSci/Pseudoclasses.md",
     "Automaîtrise/Biocrise.md",
     "25-09-2023.md",
-    "Untitled.canvas",
     "Automaîtrise/Automaîtrise.md",
     "Automaîtrise/Automaîtres.md",
     "Attachments/Pasted image 20230904175311.png",
     "RPG-KF1/Tasks Kanban.md",
     "RPG-KF1/RPG-KF1.md",
-    "Untitled 1.md",
     "EMG/Carnet d'Adresses/Carnet d'Adresses.md",
     "EMG/Décisions d'EMG.md",
     "EMG/EMG.md",
     "EMG/Espace de stockage.md",
-    "Learning/Maths/Untitled.md",
     "Automaîtrise/Biopression.md",
     "Gamehistory.md",
-    "FunCode.md",
-    "Factorio - Slotec.md",
     "Learning/Maths",
     "Learning",
-    "Untitled.md",
     "CompSci",
-    "Setting Godot up.md",
-    "EMG/Rangs/Bénévole.md",
-    "Rangs.md",
     "RPG-KF1/Tasks",
     "RPG-KF1",
     "Learning",
     "EMG/Carnet d'Adresses",
-    "EMG/Statuts/build/Statuts.toc",
-    "EMG/Statuts/build/Statuts.synctex.gz",
     "EMG/Poles/attachments/Diagramme Poles.png"
   ]
 }
