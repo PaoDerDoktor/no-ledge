@@ -4,118 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "cac65a935f844859",
+        "id": "af9b7c4b00cd7518",
         "type": "tabs",
         "children": [
           {
-            "id": "42ce4325b5c396c6",
+            "id": "1e735a934316ad7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gamehistory.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "7cf0fc1567168eba",
+            "id": "9012f74f1cedf4cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automaîtrise/Automaîtrise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3444490b15e0ea00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factorio - Slotec.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "264781c5b50a4877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FunCode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b546595638237a94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gamehistory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "529903d374f8f304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automaîtrise/Biopression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a565b27c77106587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automaîtrise/Exemples.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a83633cfe493daf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gamehistory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da8b6f31123c6f66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automaîtrise/Automaîtres.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "497366703e6eeb2e",
@@ -181,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gamehistory.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamehistory.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gamehistory.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -229,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,19 +155,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42ce4325b5c396c6",
+  "active": "9012f74f1cedf4cb",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Automaîtrise/Automaîtres.md",
+    "Gamehistory.md",
+    "Automaîtrise/Exemples.md",
+    "Automaîtrise/Biopression.md",
+    "FunCode.md",
+    "Factorio - Slotec.md",
+    "Automaîtrise/Automaîtrise.md",
+    "Untitled",
     "Untitled.canvas",
     "Texturing",
-    "Automaîtrise/Automaîtrise.md",
-    "Automaîtrise/Automaîtres.md",
-    "Automaîtrise/Exemples.md",
     "Automaîtrise/Biocrise.md",
-    "Automaîtrise/Biopression.md",
     "Test.md",
-    "Factorio - Slotec.md",
-    "FunCode.md",
-    "Gamehistory.md",
     "Automaîtrise",
     "Pasted image 20230904175311.png"
   ]
