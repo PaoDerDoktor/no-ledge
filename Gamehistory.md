@@ -1,34 +1,34 @@
-1990. Super Mario World
-1991. Metroid II
-1992. E.V.O.: Search for Eden
-1993. Shadowrun
-1994. Marathon
-1995. Front Mission
-1996. Tears of Azrael
-1997. Zork : Grand Inquisitor
-1998. Unreal
-1999. Need for Speed : High Stakes
-2000. Evolva
-2001. Stronghold
-2002. Herdy Gerdy
-2003. Ghost Master
-2004. Drakengard
-2005. Jak X
-2006. DEFCON : Everyobody Dies
-2007. Kane & Lynch : Dead Men
-2008. Code Lyoko : Fall of X.A.N.A.
-2009. Scribblenauts
-2010. Legend of Kay
-2011. From Dust
-2012. Binary Domain
-2013. Risk of Rain
-2014. Planetary Annihilation
-2015. Axiom Verge
-2016. Everybody's Gone to the Rapture
-2017. Echo
-2018. Wreckfest
-2019. Pikuniku
-2020. DOOM Eternal
-2021. Biomutants
-2022. Elden Ring
-2023. Barotrauma
+1. Super Mario World
+2. Metroid II
+3. E.V.O.: Search for Eden
+4. Shadowrun
+5. Marathon
+6. Front Mission
+7. Tears of Azrael
+8. Zork : Grand Inquisitor
+9. Unreal
+10. Need for Speed : High Stakes
+11. Evolva
+12. Stronghold
+13. Herdy Gerdy
+14. Ghost Master
+15. Drakengard
+16. Jak X
+17. DEFCON : Everyobody Dies
+18. Kane & Lynch : Dead Men
+19. Code Lyoko : Fall of X.A.N.A.
+20. Scribblenauts
+21. Legend of Kay
+22. From Dust
+23. Binary Domain
+24. Risk of Rain
+25. Planetary Annihilation
+26. Axiom Verge
+27. Everybody's Gone to the Rapture
+28. Echo
+29. Wreckfest
+30. Pikuniku
+31. DOOM Eternal
+32. Biomutants
+33. Elden Ring
+34. Barotrauma
